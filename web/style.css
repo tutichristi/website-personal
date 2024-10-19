@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(198, 148, 111);
+    background-image: url("gbr/mer1.jpg"); 
+    background-size: cover;
+        
+}
+body img{
+    padding-left: 15.5cm;
+    padding-top:2px;
+    width: 80px;
+    height: 100px;
+        
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(112, 85, 11);
+    font-weight: bold;
+    text-align: center;
+    
+}
+hr{ border: none; height: 4px; background-color: rgb(26, 3, 3); }

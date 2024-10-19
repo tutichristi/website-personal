@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(237, 200, 112);
+}
+body img{
+    padding-left: 15.5cm;
+    padding-top:2px;
+    width: 80px;
+    height: 100px;
+}
+h2{
+    padding-top: 10px;
+    padding-left: 2px;
+    padding-right: 10px;
+    color: rgb(104, 7, 26);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-style: oblique;
+    
+
+    
+}
+video{   
+    padding-top: 100px;
+    padding-left:500px;
+    padding-right: 10px;
+    border: 5px solid #a71515;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+p video{
+    border-radius: 5px;
+    border: 5px solid #b9db12;
+    padding-top: 8px;
+    padding-bottom: 5px;
+    padding: 10px;
+    
+     
+    
+}
+.container{
+    display: flex;
+}
+p{
+    float: left;
+}

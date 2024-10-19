@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+    background-image: url("gbr/news.jpg"); 
+    background-size: cover;
+}
+p{
+    color: blue;
+    text-align: left;
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+}
+body img{
+    width: 180px;
+    height: 100px;
+
+}
+h1{
+    font-weight: bold;
+}
+
+h4{
+    padding-left: 1000px;
+    text-align: left;
+}
+hr{ border: none; height: 5px; background-color: rgb(15, 135, 29); }

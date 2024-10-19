@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+}
+body img{
+    padding-left: 15.5cm;
+    padding-top:2px;
+    width: 80px;
+    height: 100px;
+        
+}
+h2{
+    color: blueviolet;
+    text-align: center;
+    text-decoration: double;
+}
+hr{ border: none; height: 5px; background-color: rgb(229, 107, 209); }
